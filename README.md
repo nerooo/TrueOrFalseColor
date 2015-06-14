@@ -1,1 +1,1 @@
-by (khrigo) [https://github.com/khrigo]
+by [khrigo] (https://github.com/khrigo)
