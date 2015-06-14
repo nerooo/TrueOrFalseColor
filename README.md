@@ -1,1 +1,1 @@
-by khrigo[http://khrog]
+by (khrigo) [https://github.com/khrigo]
